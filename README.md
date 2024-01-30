@@ -1,30 +1,5 @@
 # Distributed Cloud Computing
 Repository with material and code for the "Distributed and Cloud Computing" module, University of Suffolk
 
-An h1 header
-============
 
-Paragraphs are separated by a blank line. 
-
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
-
-* this one
-* that one
-* the other one
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-An h2 header
-------------
-
-Here's a numbered list (use `hashEnumerators` option if you want to use hashes):
-
-#. first item
-#. second item
-#. third item
 
