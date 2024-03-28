@@ -10,10 +10,10 @@ In this lecture, we will be introducing Distributed Computing  Systems, consider
 
 ## An overview of Distributed Systems
 
+[![Explaining Distributed Systems Like I'm 5](image-1.png)](https://www.youtube.com/watch?v=CESKgdNiKJw)
+
 Watch this video by Tim Berglund presenting an overview of Distributed Systems in one Lesson:
 
 [![Distributed Systems in one Lesson](image.png)](https://www.youtube.com/watch?v=Y6Ev8GIlbxc "Tim Berglund presenting an overview of Distributed Systems in one Lesson - Click to Watch!")
 
 Slides
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRt71B14wgX4xuagIgm6-69VT8zmwoKMa_Mz9gfmmkEjA_saeJlrIzwiFaebdzNAQkvjys0teShwG1s/embed?start=false&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
