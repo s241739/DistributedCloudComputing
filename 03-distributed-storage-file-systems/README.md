@@ -1,4 +1,4 @@
- # 03 - Distributed Storage and Distributed File Systems
+# 03 - Distributed Storage and Distributed File Systems
 
 ## Lecture overview
 In this lecture, we will be looking at distributed storage and file systems and looking in more detail at concepts such as partitioning and replication and how they are key to distributed systems functioning.
@@ -24,4 +24,4 @@ The following labs are available for University of Suffolk students to work on a
 - DCC Lab 1 (AWS Training Academy Course: Data Engineering - Module 8 Lab): Storing and Analyzing Data Using Amazon Redshift
 
 ## Great Work! Keep on learning 🎉💯
-Next we look at **distributed processing** (threads, virtualisation), inter-process communication and remote invocation of code and data for distributed systems and techniques for communication between elements of a distributed system. We also consider how that communication is underpinned theoretically through different approaches and how distributed systems are supported by operating systems.
+Next we look at [**distributed processing**](/workspaces/DistributedCloudComputing/04-distributed-processing/README.md) (threads, virtualisation), inter-process communication and remote invocation of code and data for distributed systems and techniques for communication between elements of a distributed system. We also consider how that communication is underpinned theoretically through different approaches and how distributed systems are supported by operating systems.
