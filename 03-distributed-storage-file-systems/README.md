@@ -6,8 +6,9 @@ In this lecture, we will be looking at distributed storage and file systems and 
 We will also try out a tutorial using Amazon Redshift to experience how storage works in distributed systems, especially in the context of big data.
 
 ## Distributed Storage and Distributed File Systems
-
+<html>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbg0RxDkvkzWPBCOhqUtjZwkAb7EAL_FrahSY5ZKkW732AGKM6eNtBY32rSNPZicOBWpn_JlqGKIGC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</html>
 
 ## Readings for this lecture
 
