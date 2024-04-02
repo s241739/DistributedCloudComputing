@@ -14,6 +14,9 @@ using svg
 
 ![](./04-slides.svg)
 
+Using pdf
+
+
 ## Readings for this lecture
 
 Detailed information for today's key concepts can be found in the following readings:
