@@ -10,6 +10,17 @@ We will also try out a tutorial using Amazon Redshift to experience how storage 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbg0RxDkvkzWPBCOhqUtjZwkAb7EAL_FrahSY5ZKkW732AGKM6eNtBY32rSNPZicOBWpn_JlqGKIGC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </html>
 
+
+with pdf
+
+[Lecture 3_ DCC - Distributed Storage.pdf](https://github.com/KakiasAcademicAlcove/DistributedCloudComputing/files/14835186/Lecture.3_.DCC.-.Distributed.Storage.pdf)
+
+<object data="https://github.com/KakiasAcademicAlcove/DistributedCloudComputing/files/14835186/Lecture.3_.DCC.-.Distributed.Storage.pdf" type="application/pdf" width="700px" height="700px">
+  <embed src="https://github.com/KakiasAcademicAlcove/DistributedCloudComputing/files/14835186/Lecture.3_.DCC.-.Distributed.Storage.pdf">
+    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/KakiasAcademicAlcove/DistributedCloudComputing/files/14835186/Lecture.3_.DCC.-.Distributed.Storage.pdf">Download PDF</a>.</p>
+  </embed>
+</object>
+
 ## Readings for this lecture
 
 Detailed information for today's key concepts can be found in the following readings:
