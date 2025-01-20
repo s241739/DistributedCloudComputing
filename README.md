@@ -13,16 +13,16 @@ This space hosts materials from my lectures on 2 University of Suffolk undergrad
 
  The following lectures are usually taught in either the intensive duoblock (IMDBMI303) or the semesterised term (IDASEG301):
 
- * Lecture 01: Introduction to distributed computing
- * Lecture 02: Distributed Storage
- * Lecture 03: Distributed Processing
- * Lecture 04: Distributed Architectures
- * Lecture 05: Distributed Communication
- * Lecture 06: Synchronisation in Distributed Systems
- * Lecture 07: Coordination & Agreement in Distributed Systems
- * Lecture 08: Securing Distributed Systems
- * Lecture 09: Distributed Databases
- * Lecture 10: Building a Distributed Application (dsapp) - parts 1 & 2
+ * [Lecture 01: Introduction to distributed computing](./01-intro-to-distributed-computing/README.md)
+ * [Lecture 02: Distributed Storage](./02-distributed-storage/README.md)
+ * [Lecture 03: Distributed Processing](./03-distributed-processing/)
+ * [Lecture 04: Distributed Architectures](./04-distributed-architectures/)
+ * [Lecture 05: Distributed Communication](./)
+ * [Lecture 06: Synchronisation in Distributed Systems](./)
+ * [Lecture 07: Coordination & Agreement in Distributed Systems](./)
+ * [Lecture 08: Securing Distributed Systems](./)
+ * [Lecture 09: Distributed Databases](./)
+ * [Lecture 10: Building a Distributed Application (dsapp) - parts 1 & 2](./)
 
 I usually get the students to visit either the BT showcase at Adastral Park and/or organise an invited talk from an industry expert where availability permits.
 
