@@ -36,4 +36,4 @@ I have also taught intermittedly (depending on cohort specialisation, time avail
 * [Lecture 16: Topics in DS: Distributed Ledgers and Blockchain applications](./16-topics-distributed-ledgers-bitcoin/)
 * [Lecture 17: Topics in DS: Quantum Computing](./17-topics-quantum-computing/)
 
-
+As I am working my way through updating this documents, I am using a colour coded system to flag which of the units have been recently updated (🟢) and which are work in progress (🟡). Sections with considerable mistakes (⭕) should not be referenced or used for any of your work until they become green.

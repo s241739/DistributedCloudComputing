@@ -29,6 +29,8 @@ In the second part of this lecture, we will look at **distributed processing** (
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbyO9ZNBGq0dCdXvceP3ltiYZLOQSdnrnra2TFOUEkYXFmDdsK3TlGZgDA04DqLq_wMS1N3WuhqhIr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
+![alt text](03-slides.svg)
+
 ### Readings for this Lecture
 
 Detailed information for today's key concepts can be found in the following readings:
