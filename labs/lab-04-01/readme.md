@@ -23,7 +23,7 @@ The example below shows an example of the **Observer Pattern**, where the `PUBLI
  -- publishes a message, demonstrating the publish-subscribe pattern.
 
 
-#### Lab Tasks:
+#### 🧪 Lab Tasks:
 
 **Task 1.** Study the code and understand the logic, as well as the steps that are followed for the PUB/SUB system to work.
 
@@ -121,7 +121,7 @@ publisher.publish("Hello World")  # This will send "Hello World" to both subscri
 
 ```
 
-### PUB/SUB System 2:_Using Python's threading module_
+### PUB/SUB System 2: _Using Python's threading module_
 
 This lab will get you working with another basic implementation of the Publisher-Subscriber 
  pattern using **threading**, allowing for asynchronous message delivery to multiple 
@@ -160,7 +160,7 @@ Here is what happens in the code in more detail:
     a message to the "sports" topic, and subscriber_1 calls its receive method to 
     print the received message.
 
-#### Lab Tasks:
+#### 🧪 Lab Tasks:
 **Task 1.** Study the code and understand the logic, as well as the steps that are followed for the PUB/SUB system to work. Compare it with PUB/SUB system 1 in lab-04-01-01.py
 
 **Task 2.** Define a couple of additional subscribers to the publishers' subscriber's list (such as yourself or the people sitting around you)
