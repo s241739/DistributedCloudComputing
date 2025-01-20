@@ -31,7 +31,7 @@ The example below shows an example of the **Observer Pattern**, where the `PUBLI
 
 **Task 3.** Define an additional subscriber to the publishers' subscriber's list with variable name `subscriber_3` and name `"suffolk"`.
 
-### Files
+#### Files
 Code is copied below and is also available in [lab04-01-01.py](lab-04-01-01.py)
 
 
@@ -120,6 +120,7 @@ publisher.publish("Hello World")  # This will send "Hello World" to both subscri
 
 
 ```
+-----------------------------------------------------
 
 ### PUB/SUB System 2: _Using Python's threading module_
 
@@ -169,7 +170,7 @@ Here is what happens in the code in more detail:
 
 **Task 4.**  Define and publish a couple of more additional messages for your new topics
 
-### Files
+#### Files
 Code is copied below and is also available in [lab04-01-02.py](./lab-04-01-02.py)
 
 ```python
