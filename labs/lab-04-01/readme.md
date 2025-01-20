@@ -26,7 +26,9 @@ The example below shows an example of the **Observer Pattern**, where the `PUBLI
 #### Lab Tasks:
 
 **Task 1.** Study the code and understand the logic, as well as the steps that are followed for the PUB/SUB system to work.
+
 **Task 2.** Modify the message to be `"I like distributed systems"` or something else of your choice
+
 **Task 3.** Define an additional subscriber to the publishers' subscriber's list with variable name `subscriber_3` and name `"suffolk"`.
 
 ### Files
@@ -160,8 +162,11 @@ Here is what happens in the code in more detail:
 
 #### Lab Tasks:
 **Task 1.** Study the code and understand the logic, as well as the steps that are followed for the PUB/SUB system to work. Compare it with PUB/SUB system 1 in lab-04-01-01.py
+
 **Task 2.** Define a couple of additional subscribers to the publishers' subscriber's list (such as yourself or the people sitting around you)
+
 **Task 3.** Subscribe each subscriber to different topics.
+
 **Task 4.**  Define and publish a couple of more additional messages for your new topics
 
 ### Files
