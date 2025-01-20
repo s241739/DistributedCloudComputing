@@ -1,7 +1,7 @@
 ![alt text](image.png)
 
 <p align="center">
-<a href="../02-distributed-storage/"> (< Previous Lecture)</a>  |  <a href="../03-distributed-processing/">( > Next Lecture)</a>
+<a href="../02-distributed-storage/"> (< Previous Lecture)</a>  |  <a href="../04-distributed-architectures/">( > Next Lecture)</a>
 </p>
 
 ## 🟢 03 - Distributed Processing
