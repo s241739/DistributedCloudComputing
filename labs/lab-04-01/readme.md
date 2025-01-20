@@ -2,7 +2,9 @@
 ## 🟡🧪 Lab 04.01: Experimenting with Publish Subscribe Architectures in Python
 Distributed Cloud Computing / Distributed Systems ⏺️ Last updated: Jan 2025, Dr Kakia Chatsiou
 
-### PUB/SUB System 1: Using Python's built-in `queue` module
+### 1. PUB/SUB System 1: Using Python's built-in `queue` module
+
+#### Lab Overview
 
 The example below shows an example of the **Observer Pattern**, where the `PUBLISHER` notifies 
  all its `SUBSCRIBERS` whenever a new message is published.
@@ -122,7 +124,9 @@ publisher.publish("Hello World")  # This will send "Hello World" to both subscri
 ```
 -----------------------------------------------------
 
-### PUB/SUB System 2: _Using Python's threading module_
+### 2. PUB/SUB System 2: _Using Python's threading module_
+
+#### Lab Overview
 
 This lab will get you working with another basic implementation of the Publisher-Subscriber 
  pattern using **threading**, allowing for asynchronous message delivery to multiple 
