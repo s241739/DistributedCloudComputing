@@ -1,6 +1,6 @@
 ## Distributed Cloud Computing / Distributed Systems
-## Lab 04.01 Experimenting with a Publish Subscribe Architecture in Python 3
-##            Using Python's built-in queue module
+## Lab 04.01.01 Experimenting with a Publish Subscribe Architectures in Python 3
+##              _Using Python's built-in queue module_
 ## Last updated: Jan 2025, Dr Kakia Chatsiou
 
 # The example below shows an example of the **Observer Pattern**, where the PUBLISHER notifies 

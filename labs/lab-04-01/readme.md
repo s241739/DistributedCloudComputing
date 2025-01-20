@@ -1,5 +1,7 @@
 ## Distributed Cloud Computing / Distributed Systems
-## 🟡🧪 Lab 04.01: Experimenting with a Publish Subscribe Architecture in Python
+## 🟡🧪 Lab 04.01: Experimenting with Publish Subscribe Architectures in Python
+
+### _Using Python's built-in queue module_
 
 ```python
 
@@ -38,4 +40,5 @@ publisher.publish("Hello World")
 
 ```
 
-Some more text here
+### _Using Python's threading module_
+
