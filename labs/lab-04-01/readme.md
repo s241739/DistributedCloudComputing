@@ -143,7 +143,7 @@ Here is what happens in the code in more detail:
     topic. It sets the event for each subscriber, indicating that a message is 
     available, and assigns the message to the subscriber's message attribute.
 
- 3. **Subscriber Class**:
+ 3. **Subscriber Class**:   jhkhjkk
  
  -- **Initialisation**: The Subscriber class initializes with a name, an Event object 
     for synchronization, and a message attribute set to None.
