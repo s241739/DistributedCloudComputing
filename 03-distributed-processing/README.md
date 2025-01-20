@@ -1,5 +1,7 @@
 ![alt text](image.png)
 
+(<Previous Lecture) | (>Next Lecture)
+
 ## 🟢 03 - Distributed Processing
 
 In the last lecture, we looked at **storage in the cloud**, and concepts such as **block vs object storage**. We also looked at different ways that we can store big data such as the principles behind **distributed vs centralised storage** and examples of different AWS storage services such as AWS EBS, AWS S3. We also looked at some dedicated services for transactions data (streaming data) such as AWS SFx.
