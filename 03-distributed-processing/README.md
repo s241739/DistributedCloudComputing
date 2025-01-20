@@ -1,4 +1,4 @@
-# 04 - Distributed Processing
+# 03 - Distributed Processing
 
 ## Lecture overview
 In this lecture, we look at **distributed processing** (threads, virtualisation), inter-process communication and remote invocation of code and data for distributed systems and techniques for communication between elements of a distributed system. 

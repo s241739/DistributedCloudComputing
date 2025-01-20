@@ -1,4 +1,4 @@
-# 03 - Distributed Storage and Distributed File Systems
+# 02 - Distributed Storage and Distributed File Systems
 
 ## Lecture overview
 In this lecture, we will be looking at distributed storage and file systems and looking in more detail at concepts such as partitioning and replication and how they are key to distributed systems functioning.

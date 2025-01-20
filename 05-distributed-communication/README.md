@@ -1,4 +1,4 @@
-## Distributed and Cloud Computing
+## 05 - Distributed Architectures
 
 ### Introduction
 
