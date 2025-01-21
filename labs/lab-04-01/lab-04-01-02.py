@@ -112,13 +112,15 @@ subscriber_7 = Subscriber("Joe")
 publisher.subscribe(subscriber_1, "sports")          # Subscriber 1 subscribes to "sports"
 publisher.subscribe(subscriber_2, "entertainment")   # Subscriber 2 subscribes to "entertainment"
 publisher.subscribe(subscriber_3, "sports")          # Subscriber 3 subscribes to "sports"
-publisher.subscribe(subscriber_4, "podcast")
-publisher.subscribe(subscriber_5, "music")
-publisher.subscribe(subscriber_6, "entertainment")
+publisher.subscribe(subscriber_4, "library")
+publisher.subscribe(subscriber_5, "podcast")
+publisher.subscribe(subscriber_6, "music")
+publisher.subscribe(subscriber_7, "entertainment")
 
 # Publish a message to the "sports" topic
 publisher.publish("Soccer match result", "sports")
 publisher.publish("I'm back", "music")
+publisher.publish("May you find your book in this place", "library")
 publisher.publish("Talk to you", "podcast")
 publisher.publish("Drama Alert", "entertainment")
 # Call the receive method of subscriber_1 to process the message
@@ -126,3 +128,6 @@ subscriber_1.receive()
 subscriber_2.receive()
 subscriber_3.receive()
 subscriber_4.receive()
+subscriber_5.receive()
+subscriber_6.receive()
+subscriber_7.receive()
