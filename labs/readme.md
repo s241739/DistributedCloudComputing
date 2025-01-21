@@ -4,7 +4,7 @@ Welcome to the Distributed Systems Lab Page! Here, you will find all the essenti
 
 First prefix of labs corresponds to lecture number for ease of reference.
 
-* Lab 04.01: Experimenting with a Publish Subscribe Architecture in Python
+* [Lab 04.01: Experimenting with a Publish Subscribe Architecture in Python](./lab-04-01/)
 * Lab 04.02: Experimenting with a Client-Server Architecture in Python
 * Lab 04.03: Creating a messaging application using RabbitMQ - Hello World
 * Lab 04.04: Creating a messaging application using RabbitMQ - Publish/Subscribe
