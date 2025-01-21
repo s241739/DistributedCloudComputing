@@ -64,7 +64,7 @@ publisher.subscribe(subscriber_1)  # Adding subscriber_1 to the publisher's subs
 publisher.subscribe(subscriber_2)  # Adding subscriber_2 to the publisher's subscribers list
 
 # Publishing a message to all subscribers
-publisher.publish("Hello World")  # This will send "Hello World" to both subscribers
+publisher.publish("I like distributed systems")  # This will send "Hello World" to both subscribers
 
 ## TASKS:
 
